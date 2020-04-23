@@ -1,3 +1,3 @@
 # prac_in_termu
 
-##Coding practice in android termux at Samsung DeX
+## Coding practice in android termux at Samsung DeX
