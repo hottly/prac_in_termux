@@ -1,3 +1,5 @@
+#enter the score and make it as grade
+
 score = int(input())
 
 result = ""
